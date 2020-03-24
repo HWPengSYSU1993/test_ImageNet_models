@@ -25,5 +25,5 @@ Test classic ImageNet-pretrained image classification models including VGG, Ince
    | [VGG 16](http://arxiv.org/abs/1409.1556.pdf)           | [vgg_16_2016_08_28.tar.gz](http://download.tensorflow.org/models/vgg_16_2016_08_28.tar.gz) | 71.5           | 89.8           |
    | [VGG 19](http://arxiv.org/abs/1409.1556.pdf)           | [vgg_19_2016_08_28.tar.gz](http://download.tensorflow.org/models/vgg_19_2016_08_28.tar.gz) | 71.1           | 89.8           |
 
-2. run "test_single_image.py" to classify image based different models.
+2. Run "test_single_image.py" to classify image based different models.
 
